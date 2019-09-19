@@ -1,5 +1,5 @@
 # build artefacts
-/build/
+/build/__tests__
 
 # npm
 /node_modules/
